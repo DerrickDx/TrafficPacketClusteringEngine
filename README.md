@@ -5,4 +5,4 @@ Data preprocessing module and clustering module have been implemented.
 
 Using following command:
 g++ -std=c++11 KMedoids.cpp -o runKMedoids
-./runKMedoids network packets.txt initial medoids.txt
+./runKMedoids network_packets.txt initial_medoids.txt
